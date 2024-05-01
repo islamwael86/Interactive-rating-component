@@ -26,11 +26,10 @@ Users should be able to:
 [![Mobile.jpg](https://i.postimg.cc/q79yvLBG/Mobile.jpg)](https://postimg.cc/KKDR9tMK)
 [![Mobile-Thank-You.jpg](https://i.postimg.cc/MHYQtJ7s/Mobile-Thank-You.jpg)](https://postimg.cc/SYJRN5t8)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Interactive rating component Github Site](https://github.com/islamwael86/Interactive-rating-component)
+- Live Site URL: [Interactive rating component Live Site](https://islamwael86.github.io/Interactive-rating-component/)
 
 ### Built with
 
