@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-[![Desktop.jpg](https://i.postimg.cc/rwT2CtHy/Desktop.jpg)](https://postimg.cc/56srfj1D)
+[![Desktop.jpg](https://i.postimg.cc/RZNGHmrT/Desktop.jpg)](https://postimg.cc/JsCjf9zy)
 [![Desktop-Thank-You.jpg](https://i.postimg.cc/L6RkPNtC/Desktop-Thank-You.jpg)](https://postimg.cc/PN38sbFY)
 [![Mobile.jpg](https://i.postimg.cc/wT6kXqV8/Mobile.jpg)](https://postimg.cc/hh5xgq6p)
 [![Mobile-Thank-You.jpg](https://i.postimg.cc/MHYQtJ7s/Mobile-Thank-You.jpg)](https://postimg.cc/SYJRN5t8)
